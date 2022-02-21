@@ -6,6 +6,9 @@ For this analysis, you’ll use Pandas to change the "tripduration" column from 
 Show the length of time that bikes are checked out for all riders and genders Show the number of bike trips for all riders and genders for each hour of each day of the week Show the number of bike trips for each type of user and gender for each day of the week. Finally, you’ll add these new visualizations to the two you created in this module for your final presentation and analysis to pitch to investors
 
 
+https://public.tableau.com/app/profile/kuldip.puri/viz/bike_sharing1/CitiBikeAnalysis?publish=yes
+
+
 Results: Using the visualizations you have in your Tableau Story, describe the results of each visualization underneath the image.
 
 ![image](https://user-images.githubusercontent.com/93456209/154875108-44e1d8e6-92ff-42c4-bff3-5e17ab26ac8a.png)
