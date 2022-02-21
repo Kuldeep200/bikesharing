@@ -39,3 +39,7 @@ Trips by Gender (Weekday per hours)
 
 
 Summary: Provide a high-level summary of the results and two additional visualizations that you would perform with the given dataset.
+
+ CitiBike Users in NYC subscribed the bike renting service.There are more male custmers than ohter genders.T he top start and ending areas are the same, all happened in the most touristic and busy areas. Users use more bikes during weekdays.Peak day is Thursday. The peak usage occur daily at 7am and 6 pm. The CitiBike are very convenient and popular transportataion method for short distance travel.
+
+However, I think our data is limited. We need to find more date to compare bike sharing date in other months.
